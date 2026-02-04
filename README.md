@@ -75,6 +75,5 @@ python binary_classification.py
 python binary_classification.py --model rf
 ```
 
-Autor
-Adam Dobrodziej  
-Data Science / Machine Learning
+## Autor
+Adam Dobrodziej – Data Science / Machine Learning
