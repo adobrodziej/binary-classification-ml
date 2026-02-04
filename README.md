@@ -73,3 +73,8 @@ python binary_classification.py
 3. Uruchomienie z innym modelem:
 ```bash
 python binary_classification.py --model rf
+```
+
+Autor
+Adam Dobrodziej  
+Data Science / Machine Learning
