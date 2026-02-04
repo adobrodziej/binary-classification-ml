@@ -67,9 +67,9 @@ pip install scikit-learn numpy joblib
 
 2. Uruchomienie z domyślnym modelem (Logistic Regression):
 ```bash
-   python binary_classification.py
+python binary_classification.py
 ```
 
 3. Uruchomienie z innym modelem:
 ```bash
-   python binary_classification.py --model rf
+python binary_classification.py --model rf
